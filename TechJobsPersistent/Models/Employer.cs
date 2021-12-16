@@ -17,4 +17,4 @@ namespace TechJobsPersistent.Models
             Location = location;
         }
     }
-}
+} 
